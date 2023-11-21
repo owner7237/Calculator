@@ -13,7 +13,6 @@ public class Main {
         System.out.println("Ответ:" + calc(input));
     }
 
-    // в работе
     public static String calc(String input) throws Exception {
         int a;
         int b;
